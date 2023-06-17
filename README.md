@@ -1,4 +1,4 @@
-# awesome-multi-omics
+# Awesome Repeated Measures/Longitudinal "omics" Analysis
 
 A [community-maintained](https://github.com/smdabdoub/awesome-rm-omics/graphs/contributors) list of software packages for analysis of longitudinal/repeated measures studies utilizing high-dimensional "omics" data.
 
