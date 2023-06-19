@@ -56,7 +56,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 - 2019 - Bodein - [A Generic Multivariate Framework for the Integration of Microbiome Longitudinal Studies With Other Data Types](https://www.frontiersin.org/articles/10.3389/fgene.2019.00963)
 - 2019 - [**DIABLO**](https://github.com/singha53-zz/diablo) - Singh - Multi-block Sparse PLS-Discriminant Analysis - [DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays](https://doi.org/10.1093/bioinformatics/bty1054)
-- 2022 - **MEFISTO** - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9)
+- 2022 - [**MEFISTO**](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9) - [vignette](https://biofam.github.io/MOFA2/tutorials.html)
 - 2023 - [**PALMO**](https://github.com/aifimmunology/PALMO) - Vasaikar - [A comprehensive platform for analyzing longitudinal multi-omics data](https://doi.org/10.1038/s41467-023-37432-w)
 
 ## Reviews / Evaluations / Opinion
