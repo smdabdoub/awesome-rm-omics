@@ -19,7 +19,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2015 - Straube - [A Linear Mixed Model Spline Framework for Analysing Time Course ‘Omics’ Data](https://doi.org/10.1371/journal.pone.0134540)
 - 2017 - [**metaDprof**](https://cals.arizona.edu/~anling/software/metaDprof.htm) - Luo - [An informative approach on differential abundance analysis for time-course metagenomic sequencing data](https://doi.org/10.1093/bioinformatics/btw828)
 - 2018 - [**SplinectomeR**](https://rrshieldscutler.github.io/splinectomeR/)[src](https://github.com/RRShieldsCutler/splinectomeR) - Shields-Cutler - [SplinectomeR Enables Group Comparisons in Longitudinal Microbiome Studies](https://doi.org/10.3389/fmicb.2018.00785)
-- 2018 - **MetaLonDA** - Metwally - [MetaLonDA: a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies](https://doi.org/10.1186/s40168-018-0402-y)
+- 2018 - [**MetaLonDA**](https://github.com/aametwally/MetaLonDA) - Metwally - [MetaLonDA: a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies](https://doi.org/10.1186/s40168-018-0402-y) [vignette](https://cran.r-project.org/web/packages/MetaLonDA/vignettes/MetaLonDA.html)
 
 ### Mixed Modeling
 
