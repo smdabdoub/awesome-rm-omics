@@ -27,6 +27,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2018 - Tipton - [Measuring associations between the microbiota and repeated measures of continuous clinical variables using a lasso-penalized generalized linear mixed model](https://doi.org/10.1186/s13040-018-0173-9)
 - 2020 - [**NBZIMM**](https://github.com/nyiuab/NBZIMM) - Zhang - [NBZIMM: negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis](https://doi.org/10.1186/s12859-020-03803-z) - [vignette](https://abbyyan3.github.io/NBZIMM-tutorial/)
 - 2020 - Zhang - [Fast zero-inflated negative binomial mixed modeling approach for analyzing longitudinal metagenomics data](https://doi.org/10.1093/bioinformatics/btz973)
+- 2021 - [**MaAsLin 2**](https://huttenhower.sph.harvard.edu/maaslin/) - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442) - [vignette](https://github.com/biobakery/biobakery/wiki/maaslin2)
 - 2022 - **MiRKAT-MC** - Jiang - [MiRKAT-MC: A Distance-Based Microbiome Kernel Association Test With Multi-Categorical Outcomes](https://doi.org/10.3389/fgene.2022.841764)
 
 ### Multi-level Modeling
@@ -55,7 +56,6 @@ For brevity, entries for software and scientific articles only list the last nam
 
 - 2019 - Bodein - [A Generic Multivariate Framework for the Integration of Microbiome Longitudinal Studies With Other Data Types](https://www.frontiersin.org/articles/10.3389/fgene.2019.00963)
 - 2019 - [**DIABLO**](https://github.com/singha53-zz/diablo) - Singh - Multi-block Sparse PLS-Discriminant Analysis - [DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays](https://doi.org/10.1093/bioinformatics/bty1054)
-- 2021 - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442)
 - 2022 - **MEFISTO** - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9)
 - 2023 - [**PALMO**](https://github.com/aifimmunology/PALMO) - Vasaikar - [A comprehensive platform for analyzing longitudinal multi-omics data](https://doi.org/10.1038/s41467-023-37432-w)
 
