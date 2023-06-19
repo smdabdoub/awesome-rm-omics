@@ -32,13 +32,13 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Multi-level Modeling
 
-- 2012 - Liquet - [A novel approach for biomarker selection and the integration of repeated measures experiments from two assays](https://doi.org/10.1186/1471-2105-13-325)
+- 2012 - [**mixOmics**](http://mixomics.org/) - Liquet - [A novel approach for biomarker selection and the integration of repeated measures experiments from two assays](https://doi.org/10.1186/1471-2105-13-325)
 
 ### Network Analysis
 
 - 2011 - [eLSA](https://bitbucket.org/charade/elsa/wiki/Home) - Xia - [Extended local similarity analysis (eLSA) of microbial community and other time series data with replicates](https://doi.org/10.1186%2F1752-0509-5-S2-S15)
 - 2018 - Coenen - [Limitations of Correlation-Based Inference in Complex Virus-Microbe Communities](https://doi.org/10.1128/msystems.00084-18)
-- 2019 - Ai - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
+- 2019 - Ai - bivariate autoregressive model with Granger causality - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
 
 ### Machine Learning/Artificial Neural Networks (Deep Learning) Methods
 
