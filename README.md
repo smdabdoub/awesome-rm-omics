@@ -36,7 +36,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Network Analysis
 
-- 2011 - [eLSA](https://dna-discovery.stanford.edu/research/software/extended-local-similarity-analysis/) - Xia - [Extended local similarity analysis (eLSA) of microbial community and other time series data with replicates](https://doi.org/10.1186%2F1752-0509-5-S2-S15)
+- 2011 - [eLSA](https://bitbucket.org/charade/elsa/wiki/Home) - Xia - [Extended local similarity analysis (eLSA) of microbial community and other time series data with replicates](https://doi.org/10.1186%2F1752-0509-5-S2-S15)
 - 2018 - Coenen - [Limitations of Correlation-Based Inference in Complex Virus-Microbe Communities](https://doi.org/10.1128/msystems.00084-18)
 - 2019 - Ai - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
 
