@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Please search previous suggestions before making a new one, as yours
   may be a duplicate. 
-- Use the following format: YEAR - `[resource](link to software)` - first author's last name - very short description - `[paper](link to DOI, PMC, or arxiv)`.
+- Use the following format: YEAR - `[resource](link to software)` - first author's last name - very short description - `[paper](link to DOI, PMC, or arxiv)` - link to vignette if available.
 - **For avoiding future dead links, please restrict links to DOI, PMC or arxiv when possible**
 - For YEAR, use either the date of the publication, or if not yet
   published, the date of the preprint / software release.
