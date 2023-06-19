@@ -23,7 +23,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Mixed Modeling
 
-- 2016 - Chen - zero-inflated Beta regression (ZIBR) - [A two-part mixed-effects model for analyzing longitudinal microbiome compositional data](https://doi.org/10.1093/bioinformatics/btw308)
+- 2016 - [**ZIBR**](https://github.com/chvlyl/ZIBR) - Chen - zero-inflated Beta regression - [A two-part mixed-effects model for analyzing longitudinal microbiome compositional data](https://doi.org/10.1093/bioinformatics/btw308)
 - 2018 - [**LassoGLMMforMicrobiomes**](https://github.com/ghedin-lab/LassoGLMMforMicrobiomes) - Tipton - lasso-penalized generalized linear mixed model (LassoGLMM) with variable selection - [Measuring associations between the microbiota and repeated measures of continuous clinical variables using a lasso-penalized generalized linear mixed model](https://doi.org/10.1186/s13040-018-0173-9)
 - 2020 - [**NBZIMM**](https://github.com/nyiuab/NBZIMM) - Zhang - [NBZIMM: negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis](https://doi.org/10.1186/s12859-020-03803-z) - [vignette](https://abbyyan3.github.io/NBZIMM-tutorial/)
 - 2020 - Zhang - [Fast zero-inflated negative binomial mixed modeling approach for analyzing longitudinal metagenomics data](https://doi.org/10.1093/bioinformatics/btz973)
