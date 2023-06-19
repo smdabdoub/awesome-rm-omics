@@ -55,7 +55,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Causal Effect Estimation
 
-- 2020 - **SparseMCMM** - Wang - linear log-contrast regression/Dirichlet regression - [Estimating and testing the microbial causal mediation effect with high-dimensional and compositional microbiome data](https://doi.org/10.1093/bioinformatics/btz565)
+- 2020 - [**SparseMCMM**](https://github.com/chanw0/SparseMCMM) - Wang - linear log-contrast regression/Dirichlet regression - [Estimating and testing the microbial causal mediation effect with high-dimensional and compositional microbiome data](https://doi.org/10.1093/bioinformatics/btz565)
 
 ### Longitudinal Multi-omics Integration
 
