@@ -6,7 +6,7 @@ While many of the packages here are marketed for a single type of "omics" data (
 
 The common thread among the methods listed here is that the same samples are measured across multiple time-points and may be measured with two or more modalities (e.g.: microbiome, metabolome, and miRNA). The data can be described as multiple matrices/tables with the same number of samples (not a strict requirement for all methods) and varying number of features.
 
-The repo is in the style of Mike Love's [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) repository for multi-omics analysis methods, which is in turn, in the style of Sean Davis' [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) repo for single-cell analysis methods.
+The repo is in the style of Mike Love's [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) repository for multi-omics analysis methods (which is in turn, in the style of Sean Davis' [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) repo for single-cell analysis methods). Note that there is a Multi-omics section for software handling repeated measures studies with multiple measurement modalities, so there will be some overlap with [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
 [Contributions welcome](https://github.com/smdabdoub/awesome-rm-omics/blob/master/CONTRIBUTING.md)...
 
