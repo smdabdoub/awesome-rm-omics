@@ -28,7 +28,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2020 - [**NBZIMM**](https://github.com/nyiuab/NBZIMM) - Zhang - [NBZIMM: negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis](https://doi.org/10.1186/s12859-020-03803-z) - [vignette](https://abbyyan3.github.io/NBZIMM-tutorial/)
 - 2020 - Zhang - [Fast zero-inflated negative binomial mixed modeling approach for analyzing longitudinal metagenomics data](https://doi.org/10.1093/bioinformatics/btz973)
 - 2021 - [**MaAsLin 2**](https://huttenhower.sph.harvard.edu/maaslin/) - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442) - [vignette](https://github.com/biobakery/biobakery/wiki/maaslin2)
-- 2022 - **MiRKAT-MC** - Jiang - [MiRKAT-MC: A Distance-Based Microbiome Kernel Association Test With Multi-Categorical Outcomes](https://doi.org/10.3389/fgene.2022.841764)
+- 2022 - [**MiRKAT-MC**](https://github.com/Zhiwen-Owen-Jiang/MiRKATMC) - Jiang - [MiRKAT-MC: A Distance-Based Microbiome Kernel Association Test With Multi-Categorical Outcomes](https://doi.org/10.3389/fgene.2022.841764) - [vignette](https://cran.r-project.org/web/packages/MiRKAT/vignettes/MiRKAT_Vignette.html)
 
 ### Multi-level Modeling
 
