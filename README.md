@@ -57,9 +57,11 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2019 - **DIABLO** - Singh - [DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays](https://doi.org/10.1093/bioinformatics/bty1054)
 - 2021 - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442)
 - 2022 - **MEFISTO** - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9)
+- 2023 - [**PALMO**](https://github.com/aifimmunology/PALMO) - Vasaikar - [A comprehensive platform for analyzing longitudinal multi-omics data](https://doi.org/10.1038/s41467-023-37432-w)
 
 ## Reviews / Evaluations / Opinion
 
+- 2018 - Liang - [Dynamic modeling and network approaches for omics time course data](https://doi.org/10.1093/bib/bbx036)
 - 2021 - Lv - [Causal Inference in Microbiome Medicine: Principles and Applications](https://doi.org/10.1016/j.tim.2021.03.015)
 - 2022 - Corander - [Causal discovery for the microbiome](https://doi.org/10.1016/S2666-5247(22)00186-0)
 - 2022 - Kodikara - [Statistical challenges in longitudinal microbiome data analysis](https://doi.org/10.1093/bib/bbac273)
