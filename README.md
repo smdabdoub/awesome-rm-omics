@@ -44,6 +44,10 @@ For brevity, entries for software and scientific articles only list the last nam
 
 - 2021 - [**phyLoSTM**](https://github.com/divya031090/phyLoSTM) - Sharma - combined modeling using CNN for feature extraction and LSTM for temporal dependency analysis - [phyLoSTM: a novel deep learning model on disease prediction from longitudinal microbiome data](https://doi.org/10.1093/bioinformatics/btab482)
 
+### Ecology Literature
+
+- 2020 - Yang - [Toward a more temporally explicit framework for community ecology](https://doi.org/10.1111/1440-1703.12099)
+
 ### Phylogeny-based
 
 - 2020 - Darcy - [A phylogenetic model for the recruitment of species into microbial communities and application to studies of the human microbiome](https://doi.org/10.1038/s41396-020-0613-7)
