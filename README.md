@@ -60,6 +60,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Pathway Analysis
 - 2012 - **DIA** - Bionaz - [A Novel Dynamic Impact Approach (DIA) for Functional Analysis of Time-Course Omics Studies](https://doi.org/10.1371/journal.pone.0032455)
+- 2016 - Du - [A decision analysis model for KEGG pathway analysis](https://doi.org/10.1186/s12859-016-1285-1)
 
 ### Longitudinal Multi-omics Integration
 
