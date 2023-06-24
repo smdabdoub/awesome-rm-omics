@@ -58,6 +58,9 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2020 - [**SparseMCMM**](https://github.com/chanw0/SparseMCMM) - Wang - linear log-contrast regression/Dirichlet regression - [Estimating and testing the microbial causal mediation effect with high-dimensional and compositional microbiome data](https://doi.org/10.1093/bioinformatics/btz565)
 - 2023 - [**SparseMCMM_HD**](https://github.com/chanw0/SparseMCMM) - - [A microbial causal mediation analytic tool for health disparity and applications in body mass index](https://doi.org/10.21203/rs.3.rs-2463503/v1)
 
+### Pathway Analysis
+- 2012 - **DIA** - Bionaz - [A Novel Dynamic Impact Approach (DIA) for Functional Analysis of Time-Course Omics Studies](https://doi.org/10.1371/journal.pone.0032455)
+
 ### Longitudinal Multi-omics Integration
 
 - 2019 - [**timeOmics**](https://github.com/abodein/timeOmics) - Bodein - [A Generic Multivariate Framework for the Integration of Microbiome Longitudinal Studies With Other Data Types](https://www.frontiersin.org/articles/10.3389/fgene.2019.00963) [vignette](http://www.bioconductor.org/packages/release/bioc/vignettes/timeOmics/inst/doc/vignette.html)
