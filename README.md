@@ -8,7 +8,7 @@ The common thread among the methods listed here is that the same samples are mea
 
 The repo is in the style of Mike Love's [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) repository for multi-omics analysis methods (which, in turn, is in the style of Sean Davis' [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) repo for single-cell analysis methods). Note that there is a Multi-omics section for software handling repeated measures studies with multiple measurement modalities, so there will be some overlap with [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
-[Contributions welcome](https://github.com/smdabdoub/awesome-rm-omics/blob/master/CONTRIBUTING.md)...
+[Contributions are welcome and encouraged](https://github.com/smdabdoub/awesome-rm-omics/blob/master/CONTRIBUTING.md). I can't read all the papers by myself.
 
 For brevity, entries for software and scientific articles only list the last name of the first author.
 
