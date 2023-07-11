@@ -56,6 +56,7 @@ For brevity, entries for software and scientific articles only list the last nam
 ### Causal Effect Estimation
 
 - 2020 - [**SparseMCMM**](https://github.com/chanw0/SparseMCMM) - Wang - linear log-contrast regression/Dirichlet regression - [Estimating and testing the microbial causal mediation effect with high-dimensional and compositional microbiome data](https://doi.org/10.1093/bioinformatics/btz565)
+- 2022 - [**CMMB**](https://github.com/mbsohn/cmmb) - Sohn - [A compositional mediation model for a binary outcome: Application to microbiome studies](https://doi.org/10.1093/bioinformatics/btab605)
 - 2023 - [**SparseMCMM_HD**](https://github.com/chanw0/SparseMCMM) - - [A microbial causal mediation analytic tool for health disparity and applications in body mass index](https://doi.org/10.21203/rs.3.rs-2463503/v1)
 
 ### Pathway Analysis
