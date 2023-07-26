@@ -41,6 +41,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ## Stochastic/Probabilistic Modeling
 
+- 2018 - [**TGP-CODA**](https://github.com/tare/GPMicrobiome) - Äijö - [Temporal probabilistic modeling of bacterial compositions derived from 16S rRNA sequencing](https://doi.org/10.1093/bioinformatics/btx549)
 - 2020 - [**LUMINATE**](https://github.com/tyjo/luminate) - Joseph - [Efficient and Accurate Inference of Mixed Microbial Population Trajectories from Longitudinal Count Data](https://doi.org/10.1016/j.cels.2020.05.006)
 
 ### Network Analysis
