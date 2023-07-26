@@ -35,7 +35,12 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2012 - [**mixOmics**](http://mixomics.org/) - Liquet - [A novel approach for biomarker selection and the integration of repeated measures experiments from two assays](https://doi.org/10.1186/1471-2105-13-325)
 
 ### Bayesian Modeling
+
 - 2015 - [**BioMiCo**](https://sourceforge.net/projects/biomico/) - Shafiei - [BioMiCo: a supervised Bayesian model for inference of microbial community structure](https://doi.org/10.1186/s40168-015-0073-x)
+
+## Stochastic/Probabilistic Modeling
+
+- 2020 - [**LUMINATE**](https://github.com/tyjo/luminate) - Joseph - [Efficient and Accurate Inference of Mixed Microbial Population Trajectories from Longitudinal Count Data](https://doi.org/10.1016/j.cels.2020.05.006)
 
 ### Network Analysis
 
