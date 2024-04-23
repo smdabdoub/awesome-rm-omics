@@ -12,6 +12,8 @@ The repo is in the style of Mike Love's [awesome-multi-omics](https://github.com
 
 For brevity, entries for software and scientific articles only list the last name of the first author.
 
+**NOTE**: Entries with ** before the year are non-peer reviewed preprints.
+
 ## Software packages and methods
 
 ### Spline Modeling
