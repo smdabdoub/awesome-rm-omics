@@ -106,6 +106,7 @@ Not technically longitudinal, but heading in that direction and good to know abo
 ## Longitudinal/Repeated Measures Application Papers
 - 2021 - Duran-Pinedo - [Long-term dynamics of the human oral microbiome during clinical disease progression](https://doi.org/10.1186/s12915-021-01169-z)
 - 2022 - Armoni - [Temporal Alignment of Longitudinal Microbiome Data](https://doi.org/10.3389/fmicb.2022.909313)
+- 2022 - Murillo - [Assessing the drivers of gut microbiome composition in wild redfronted lemurs via longitudinal metacommunity analysis](https://doi.org/10.1038/s41598-022-25733-x)
 
 ## Meetings and workshops
 
