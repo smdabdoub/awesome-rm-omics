@@ -23,7 +23,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2018 - [**SplinectomeR**](https://rrshieldscutler.github.io/splinectomeR/) - Shields-Cutler - [SplinectomeR Enables Group Comparisons in Longitudinal Microbiome Studies](https://doi.org/10.3389/fmicb.2018.00785)
 - 2018 - [**MetaLonDA**](https://github.com/aametwally/MetaLonDA) - Metwally - [MetaLonDA: a flexible R package for identifying time intervals of differentially abundant features in metagenomic longitudinal studies](https://doi.org/10.1186/s40168-018-0402-y) - [vignette](https://cran.r-project.org/web/packages/MetaLonDA/vignettes/MetaLonDA.html)
 
-### Mixed Modeling
+### Linear/Mixed Modeling
 
 - 2016 - [**ZIBR**](https://github.com/chvlyl/ZIBR) - Chen - zero-inflated Beta regression - [A two-part mixed-effects model for analyzing longitudinal microbiome compositional data](https://doi.org/10.1093/bioinformatics/btw308)
 - 2018 - [**LassoGLMMforMicrobiomes**](https://github.com/ghedin-lab/LassoGLMMforMicrobiomes) - Tipton - lasso-penalized generalized linear mixed model (LassoGLMM) with variable selection - [Measuring associations between the microbiota and repeated measures of continuous clinical variables using a lasso-penalized generalized linear mixed model](https://doi.org/10.1186/s13040-018-0173-9)
@@ -32,6 +32,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2020 - Zhang - [Fast zero-inflated negative binomial mixed modeling approach for analyzing longitudinal metagenomics data](https://doi.org/10.1093/bioinformatics/btz973)
 - 2021 - [**MaAsLin 2**](https://huttenhower.sph.harvard.edu/maaslin/) - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442) - [vignette](https://github.com/biobakery/biobakery/wiki/maaslin2)
 - 2022 - [**MiRKAT-MC**](https://github.com/Zhiwen-Owen-Jiang/MiRKATMC) - Jiang - [MiRKAT-MC: A Distance-Based Microbiome Kernel Association Test With Multi-Categorical Outcomes](https://doi.org/10.3389/fgene.2022.841764) - [vignette](https://cran.r-project.org/web/packages/MiRKAT/vignettes/MiRKAT_Vignette.html)
+- 2023 - [**coda4microbiome**](https://malucalle.github.io/coda4microbiome/) - Calle - [coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies](https://doi.org/10.1186/s12859-023-05205-3)
 
 ### Multi-level Modeling
 
