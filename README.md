@@ -95,6 +95,7 @@ Not technically longitudinal, but heading in that direction and good to know abo
 - 2021 - Lv - [Causal Inference in Microbiome Medicine: Principles and Applications](https://doi.org/10.1016/j.tim.2021.03.015)
 - 2022 - Corander - [Causal discovery for the microbiome](https://doi.org/10.1016/S2666-5247(22)00186-0)
 - 2022 - Kodikara - [Statistical challenges in longitudinal microbiome data analysis](https://doi.org/10.1093/bib/bbac273)
+- 2023 - Grieneisen - [How longitudinal data can contribute to our understanding of host genetic effects on the gut microbiome](https://doi.org/10.1080%2F19490976.2023.2178797)
 
 ## Longitudinal/Repeated Measures Application Papers
 - 2021 - Duran-Pinedo - [Long-term dynamics of the human oral microbiome during clinical disease progression](https://doi.org/10.1186/s12915-021-01169-z)
