@@ -59,6 +59,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 ### Ecology Literature
 
+- 2011 - Lindenmayer - [Cross-sectional vs. longitudinal research: a case study of trees with hollows and marsupials in Australian forests](https://doi.org/10.1890/11-0279.1)
 - 2019 - Buckley - [Multivariate methods for testing hypotheses of temporal community dynamics](https://doi.org/10.1101/362822) - [paper 2](https://doi.org/10.7717/peerj.11250)
 - 2020 - Yang - [Toward a more temporally explicit framework for community ecology](https://doi.org/10.1111/1440-1703.12099)
 
@@ -74,6 +75,7 @@ Not technically longitudinal, but heading in that direction and good to know abo
 - 2023 - [**SparseMCMM_HD**](https://github.com/chanw0/SparseMCMM) - - [A microbial causal mediation analytic tool for health disparity and applications in body mass index](https://doi.org/10.21203/rs.3.rs-2463503/v1)
 
 ### Pathway Analysis
+
 - 2012 - **DIA** - Bionaz - [A Novel Dynamic Impact Approach (DIA) for Functional Analysis of Time-Course Omics Studies](https://doi.org/10.1371/journal.pone.0032455)
 - 2016 - Du - [A decision analysis model for KEGG pathway analysis](https://doi.org/10.1186/s12859-016-1285-1)
 
