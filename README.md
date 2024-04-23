@@ -57,6 +57,7 @@ For brevity, entries for software and scientific articles only list the last nam
 
 - 2021 - [**phyLoSTM**](https://github.com/divya031090/phyLoSTM) - Sharma - combined modeling using CNN for feature extraction and LSTM for temporal dependency analysis - [phyLoSTM: a novel deep learning model on disease prediction from longitudinal microbiome data](https://doi.org/10.1093/bioinformatics/btab482)
 - 2023 - Hu - [A review on longitudinal data analysis with random forest](https://doi.org/10.1093/bib/bbad002)
+- 2023 - [**EMBED**](https://github.com/mayar-shahin/EMBED) - Shahin - [EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies](https://doi.org/10.1038/s41540-023-00285-6)
 
 ### Ecology Literature
 
