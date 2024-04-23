@@ -82,6 +82,10 @@ Not technically longitudinal, but heading in that direction and good to know abo
 - 2022 - [**MEFISTO**](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9) - [vignette](https://biofam.github.io/MOFA2/tutorials.html)
 - 2023 - [**PALMO**](https://github.com/aifimmunology/PALMO) - Vasaikar - [A comprehensive platform for analyzing longitudinal multi-omics data](https://doi.org/10.1038/s41467-023-37432-w)
 
+### Data Simulation
+
+- ** 2024 - [**SimMiL**](https://github.com/nweaver111/SimMiL) - Weaver & Hendricks - [SimMiL: Simulating Microbiome Longitudinal Data](https://doi.org/10.1101/2024.03.18.585571)
+
 ## Reviews / Evaluations / Opinion
 
 - 2018 - Liang - [Dynamic modeling and network approaches for omics time course data](https://doi.org/10.1093/bib/bbx036)
