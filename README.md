@@ -98,6 +98,7 @@ Not technically longitudinal, but heading in that direction and good to know abo
 
 ## Longitudinal/Repeated Measures Application Papers
 - 2021 - Duran-Pinedo - [Long-term dynamics of the human oral microbiome during clinical disease progression](https://doi.org/10.1186/s12915-021-01169-z)
+- 2022 - Armoni - [Temporal Alignment of Longitudinal Microbiome Data](https://doi.org/10.3389/fmicb.2022.909313)
 
 ## Meetings and workshops
 
