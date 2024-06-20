@@ -75,8 +75,9 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2020 - Darcy - [A phylogenetic model for the recruitment of species into microbial communities and application to studies of the human microbiome](https://doi.org/10.1038/s41396-020-0613-7)
 
 ### Causal Effect Estimation
-Not technically longitudinal, but heading in that direction and good to know about.
+Some are not technically longitudinal, but heading in that direction and good to know about.
 
+- 2016 - Bind - generalized mixed-effects models - [Causal mediation analysis for longitudinal data with exogenous exposure](https://doi.org/10.1093/biostatistics/kxv029)
 - 2020 - [**SparseMCMM**](https://github.com/chanw0/SparseMCMM) - Wang - linear log-contrast regression/Dirichlet regression - [Estimating and testing the microbial causal mediation effect with high-dimensional and compositional microbiome data](https://doi.org/10.1093/bioinformatics/btz565)
 - 2022 - [**CMMB**](https://github.com/mbsohn/cmmb) - Sohn - [A compositional mediation model for a binary outcome: Application to microbiome studies](https://doi.org/10.1093/bioinformatics/btab605)
 - 2023 - [**SparseMCMM_HD**](https://github.com/chanw0/SparseMCMM) - - [A microbial causal mediation analytic tool for health disparity and applications in body mass index](https://doi.org/10.21203/rs.3.rs-2463503/v1)
