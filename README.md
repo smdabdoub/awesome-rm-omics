@@ -110,6 +110,7 @@ Some are not technically longitudinal, but heading in that direction and good to
 - 2022 - Corander - [Causal discovery for the microbiome](https://doi.org/10.1016/S2666-5247(22)00186-0)
 - 2022 - Kodikara - [Statistical challenges in longitudinal microbiome data analysis](https://doi.org/10.1093/bib/bbac273)
 - 2023 - Grieneisen - [How longitudinal data can contribute to our understanding of host genetic effects on the gut microbiome](https://doi.org/10.1080%2F19490976.2023.2178797)
+- 2023 - Hu & Szymczak - [A review on longitudinal data analysis with random forest](https://doi.org/10.1093/bib/bbad002)
 - 2024 - Lyu - [Methodological Considerations in Longitudinal Analyses of Microbiome Data: A Comprehensive Review](https://doi.org/10.3390/genes15010051)
 
 ## Longitudinal/Repeated Measures Application Papers
