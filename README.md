@@ -53,6 +53,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2011 - [**eLSA**](https://bitbucket.org/charade/elsa/wiki/Home) - Xia - [Extended local similarity analysis (eLSA) of microbial community and other time series data with replicates](https://doi.org/10.1186%2F1752-0509-5-S2-S15)
 - 2018 - Coenen - [Limitations of Correlation-Based Inference in Complex Virus-Microbe Communities](https://doi.org/10.1128/msystems.00084-18)
 - 2019 - Ai - bivariate autoregressive model with Granger causality - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
+- 2019 - Zhang - data driven local similarity analysis - [Statistical significance approximation for local similarity analysis of dependent time series data](https://doi.org/10.1186/s12859-019-2595-x)
 
 ### Machine Learning/Artificial Neural Networks (Deep Learning) Methods
 
