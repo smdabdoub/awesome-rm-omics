@@ -54,6 +54,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2018 - Coenen - [Limitations of Correlation-Based Inference in Complex Virus-Microbe Communities](https://doi.org/10.1128/msystems.00084-18)
 - 2019 - Ai - bivariate autoregressive model with Granger causality - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
 - 2019 - Zhang - data driven local similarity analysis - [Statistical significance approximation for local similarity analysis of dependent time series data](https://doi.org/10.1186/s12859-019-2595-x)
+- 2019 - Ai - [Explore mediated co-varying dynamics in microbial community using integrated local similarity and liquid association analysis](https://doi.org/10.1186/s12864-019-5469-8)
 
 ### Machine Learning/Artificial Neural Networks (Deep Learning) Methods
 
