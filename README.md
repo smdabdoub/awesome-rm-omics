@@ -4,7 +4,7 @@ A [community-maintained](https://github.com/smdabdoub/awesome-rm-omics/graphs/co
 
 While many of the packages here are marketed for a single type of "omics" data (metagenomics, metabolome, etc.). Many can be utilized across the -omics universe.
 
-The common thread among the methods listed here is that the same samples are measured across multiple time-points and may be measured with two or more modalities (e.g.: microbiome, metabolome, and miRNA). The data can be described as multiple matrices/tables with the same number of samples (not a strict requirement for all methods) and varying number of features.
+The common thread among the methods listed here is that the same samples are measured across multiple time-points and may be measured with two or more modalities (e.g.: microbiome, metabolome, and miRNA). The data can be described as multiple matrices/tables with the same number of samples (not a strict requirement for all methods), a varying number of features, and (in some cases) clinical/environmental/other covariates of interest.
 
 The repo is in the style of Mike Love's [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics) repository for multi-omics analysis methods (which, in turn, is in the style of Sean Davis' [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) repo for single-cell analysis methods). Note that there is a Multi-omics section for software handling repeated measures studies with multiple measurement modalities, so there will be some overlap with [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics).
 
