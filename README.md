@@ -61,11 +61,10 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2019 - [**DIVERS**](https://github.com/hym0405/DIVERS) - Ji - [Quantifying spatiotemporal variability and noise in absolute microbiota abundances using replicate sampling](https://doi.org/10.1038/s41592-019-0467-y)
 - 2021 - [**phyLoSTM**](https://github.com/divya031090/phyLoSTM) - Sharma - combined modeling using CNN for feature extraction and LSTM for temporal dependency analysis - [phyLoSTM: a novel deep learning model on disease prediction from longitudinal microbiome data](https://doi.org/10.1093/bioinformatics/btab482)
 - 2023 - Hu - [A review on longitudinal data analysis with random forest](https://doi.org/10.1093/bib/bbad002)
-- 2023 - [**EMBED**](https://github.com/mayar-shahin/EMBED) - Shahin - [EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies](https://doi.org/10.1038/s41540-023-00285-6)
 
 ### Tensor decomposition/factorization Methods
 
-- 2023 - [**EMBED**](https://github.com/mayar-shahin/EMBED) - Shahin - [](https://doi.org/10.1038/s41540-023-00285-6)
+- 2023 - [**EMBED**](https://github.com/mayar-shahin/EMBED) - Shahin - [EMBED: Essential MicroBiomE Dynamics, a dimensionality reduction approach for longitudinal microbiome studies](https://doi.org/10.1038/s41540-023-00285-6)
 - ** 2024 - [**TEMPTED**](https://github.com/pixushi/TEMPTED) - Shi - [Time-Informed Dimensionality Reduction for Longitudinal Microbiome Studies](https://doi.org/10.1101/2023.07.26.550749)
 
 ### Ecology Literature
