@@ -29,6 +29,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2018 - [**LassoGLMMforMicrobiomes**](https://github.com/ghedin-lab/LassoGLMMforMicrobiomes) - Tipton - lasso-penalized generalized linear mixed model (LassoGLMM) with variable selection - [Measuring associations between the microbiota and repeated measures of continuous clinical variables using a lasso-penalized generalized linear mixed model](https://doi.org/10.1186/s13040-018-0173-9)
 - 2018 - [**MALLARD**](https://github.com/LAD-LAB/MALLARD-Paper-Code) - Silverman - [Dynamic linear models guide design and analysis of microbiota studies within artificial human guts](https://doi.org/10.1186/s40168-018-0584-3)
 - 2019 - [**BEEM**](https://github.com/csb5/BEEM) - Li - [An expectation-maximization algorithm enables accurate ecological modeling using longitudinal microbiome sequencing data](https://doi.org/10.1186/s40168-019-0729-z)
+- 2019 - [**(a)GLMM-MiRKAT**](https://github.com/hk1785/GLMM-MiRKAT) - Koh - [A Distance-Based Kernel Association Test Based on the Generalized Linear Mixed Model for Correlated Microbiome Studies](https://doi.org/10.3389/fgene.2019.00458)
 - 2020 - [**NBZIMM**](https://github.com/nyiuab/NBZIMM) - Zhang - [NBZIMM: negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis](https://doi.org/10.1186/s12859-020-03803-z) - [vignette](https://abbyyan3.github.io/NBZIMM-tutorial/)
 - 2020 - Zhang - [Fast zero-inflated negative binomial mixed modeling approach for analyzing longitudinal metagenomics data](https://doi.org/10.1093/bioinformatics/btz973)
 - 2021 - [**MaAsLin 2**](https://huttenhower.sph.harvard.edu/maaslin/) - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442) - [vignette](https://github.com/biobakery/biobakery/wiki/maaslin2)
@@ -48,13 +49,14 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2018 - [**TGP-CODA**](https://github.com/tare/GPMicrobiome) - Äijö - [Temporal probabilistic modeling of bacterial compositions derived from 16S rRNA sequencing](https://doi.org/10.1093/bioinformatics/btx549)
 - 2020 - [**LUMINATE**](https://github.com/tyjo/luminate) - Joseph - [Efficient and Accurate Inference of Mixed Microbial Population Trajectories from Longitudinal Count Data](https://doi.org/10.1016/j.cels.2020.05.006)
 
-### Network Analysis
+### Graph/Network Methods
 
 - 2011 - [**eLSA**](https://bitbucket.org/charade/elsa/wiki/Home) - Xia - [Extended local similarity analysis (eLSA) of microbial community and other time series data with replicates](https://doi.org/10.1186%2F1752-0509-5-S2-S15)
 - 2018 - Coenen - [Limitations of Correlation-Based Inference in Complex Virus-Microbe Communities](https://doi.org/10.1128/msystems.00084-18)
 - 2019 - Ai - bivariate autoregressive model with Granger causality - [Constructing the Microbial Association Network from large-scale time series data using Granger causality](https://doi.org/10.3390%2Fgenes10030216)
 - 2019 - Zhang - data driven local similarity analysis - [Statistical significance approximation for local similarity analysis of dependent time series data](https://doi.org/10.1186/s12859-019-2595-x)
 - 2019 - Ai - [Explore mediated co-varying dynamics in microbial community using integrated local similarity and liquid association analysis](https://doi.org/10.1186/s12864-019-5469-8)
+- 2023 - Melnyk - [Understanding microbiome dynamics via interpretable graph representation learning](https://doi.org/10.1038/s41598-023-29098-7)
 
 ### Machine Learning/Artificial Neural Networks (Deep Learning) Methods
 
