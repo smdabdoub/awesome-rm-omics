@@ -2,7 +2,7 @@
 
 A [community-maintained](https://github.com/smdabdoub/awesome-rm-omics/graphs/contributors) list of software packages for analysis of longitudinal/repeated measures studies utilizing high-dimensional "omics" data.
 
-While many of the packages here are marketed for a single type of "omics" data (metagenomics, metabolome, etc.). Many can be utilized across the -omics universe.
+While many of the packages here are marketed for a single type of "omics" data (metagenomics, metabolome, etc.), many can be utilized across the -omics universe.
 
 The common thread among the methods listed here is that the same samples are measured across multiple time-points and may be measured with two or more modalities (e.g.: microbiome, metabolome, and miRNA). The data can be described as multiple matrices/tables with the same number of samples (not a strict requirement for all methods), a varying number of features, and (in some cases) clinical/environmental/other covariates of interest.
 
