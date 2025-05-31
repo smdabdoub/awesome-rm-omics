@@ -35,6 +35,7 @@ For brevity, entries for software and scientific articles only list the last nam
 - 2021 - [**MaAsLin 2**](https://huttenhower.sph.harvard.edu/maaslin/) - Mallick - [Multivariable association discovery in population-scale meta-omics studies](https://doi.org/10.1371/journal.pcbi.1009442) - [vignette](https://github.com/biobakery/biobakery/wiki/maaslin2)
 - 2022 - [**MiRKAT-MC**](https://github.com/Zhiwen-Owen-Jiang/MiRKATMC) - Jiang - [MiRKAT-MC: A Distance-Based Microbiome Kernel Association Test With Multi-Categorical Outcomes](https://doi.org/10.3389/fgene.2022.841764) - [vignette](https://cran.r-project.org/web/packages/MiRKAT/vignettes/MiRKAT_Vignette.html)
 - 2023 - [**coda4microbiome**](https://malucalle.github.io/coda4microbiome/) - Calle - [coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies](https://doi.org/10.1186/s12859-023-05205-3)
+- 2023 - Sweeny - [A mixed-model approach for estimating drivers of microbiota community composition and differential taxonomic abundance](https://doi.org/10.1128/msystems.00040-23) - [vignette]((https://arsweeny.github.io/microbiome-glmm/))
 
 ### Multi-level Modeling
 
