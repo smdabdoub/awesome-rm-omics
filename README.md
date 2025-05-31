@@ -103,6 +103,10 @@ Some are not technically longitudinal, but heading in that direction and good to
 - 2022 - [**MEFISTO**](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - [Identifying temporal and spatial patterns of variation from multi-modal data using MEFISTO](https://www.nature.com/articles/s41592-021-01343-9) - [vignette](https://biofam.github.io/MOFA2/tutorials.html)
 - 2023 - [**PALMO**](https://github.com/aifimmunology/PALMO) - Vasaikar - [A comprehensive platform for analyzing longitudinal multi-omics data](https://doi.org/10.1038/s41467-023-37432-w)
 
+### Data Normalization
+
+- 2024 - [**TimeNorm**](http://ggithub.com/anlingUA/TimeNorm) - Luo - [TimeNorm: a novel normalization method for time course microbiome data](https://doi.org/10.3389/fgene.2024.1417533)
+
 ### Data Simulation
 
 - ** 2022 - [**MTIST**](https://github.com/jsevo/mtist) - Hussey - [The MTIST platform: a microbiome time series inference standardized test simulation, dataset, and scoring systems](https://doi.org/10.1101/2022.10.18.512783)
