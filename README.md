@@ -105,7 +105,7 @@ Some are not technically longitudinal, but heading in that direction and good to
 
 ### Data Normalization
 
-- 2024 - [**TimeNorm**](http://ggithub.com/anlingUA/TimeNorm) - Luo - [TimeNorm: a novel normalization method for time course microbiome data](https://doi.org/10.3389/fgene.2024.1417533)
+- 2024 - [**TimeNorm**](http://github.com/anlingUA/TimeNorm) - Luo - [TimeNorm: a novel normalization method for time course microbiome data](https://doi.org/10.3389/fgene.2024.1417533)
 
 ### Data Simulation
 
